@@ -1,13 +1,17 @@
-#Web site: Test de personalidad
-##General info
+# Web site: Test de personalidad
+
+## General info
 - Simple web site
 - Enlist different personality tests
 - Links to the sources
-##Technologies
+
+## Technologies
 - HTML
-##Project status
+
+## Project status
 - Development
-##Room for improvement
-- Agregar CSS
-- Agregar imágenes
-- Agregar secciones con descripciones detalladas
+
+## Room for improvement
+- Add CSS
+- Add images
+- Add sections with detailed descriptions
