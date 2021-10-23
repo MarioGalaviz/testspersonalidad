@@ -20,7 +20,7 @@ body, html {
   }
 
 .bg {
-    height: 100%;
+    height: 88%;
     background-color: #c8d8e4;
 }
 
@@ -28,8 +28,8 @@ body, html {
     padding: 20% 0;
 }
 
-nav {
-    height: 3em;
+header {
+    height: 12%;
     background-color: #2b6777;
 }
 
