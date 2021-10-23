@@ -1,3 +1,38 @@
+/* 
+    #2b6777 teal (verde oscuro)
+    #c8d8e4 azul muy claro
+    #ffffff blanco brilloso
+    #f2f2f2 gricesito
+    #52ab98 aqua marine
+*/
+
 * {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+body, html {
+    height: 100%;
+  }
+
+.bg {
+    height: 100%;
+    background-color: #c8d8e4;
+}
+
+.textoPrincipal {
+    padding: 20% 0;
+}
+
+nav {
+    height: 3em;
+    background-color: #2b6777;
+}
+
+nav h1 {
+    color: white;
 }
